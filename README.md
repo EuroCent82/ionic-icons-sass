@@ -1,6 +1,6 @@
 
 # ionic-icons-sass
-A Simple Hello World Example Package
+Ionic Icons Convertable to Sass/Scss
 
 ## Installation
 Install via NPM:
@@ -11,14 +11,14 @@ npm install ionic-icons-sass
 ```
 
 ```scss
-@import '~@eurocent82/ionic-icons-sass/dist/ionic-icons';
-´´´
+@import '~ionic-icons-sass/dist/ionic-icons';
+```
 
-```blade
+```php
 <i class="ionic icon-users"></i>
 ```
 
 ## License
 
 This project is licensed under the terms of the
-[MIT license] (/LICENSE).
+[MIT license](/LICENSE).

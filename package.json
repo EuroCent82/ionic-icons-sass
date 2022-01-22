@@ -1,6 +1,6 @@
 {
-  "name": "@eurocent82/ionic-icons-sass",
-  "version": "1.0.0",
+  "name": "ionic-icons-sass",
+  "version": "1.0.2",
   "description": "Ionic Icons Convertable to Sass/Scss",
   "repository": {
     "type": "git",
@@ -41,5 +41,8 @@
   "devDependencies": {
     "chai": "4.3.4",
     "mocha": "9.1.4"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
