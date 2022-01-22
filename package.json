@@ -1,6 +1,6 @@
 {
   "name": "ionic-icons-scss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ionic Icons have been converted to different sections (Normal, Outline, Sharp and Circle) in Sass/Scss.",
   "repository": {
     "type": "git",
