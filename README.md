@@ -11,7 +11,7 @@ npm install ionic-icons-sass
 ```
 
 ```scss
-@import '~ionic-icons-sass/dist/ionic-icons';
+@import '~@eurocent82/ionic-icons-sass/dist/ionic-icons';
 ´´´
 
 ```blade
@@ -21,4 +21,4 @@ npm install ionic-icons-sass
 ## License
 
 This project is licensed under the terms of the
-[MIT license](/LICENSE).
+[MIT license] (/LICENSE).
