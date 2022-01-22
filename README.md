@@ -14,13 +14,18 @@ npm install ionic-icons-sass --save
 yarn add ionic-icons-sass
 ```
 
+## Import Ionic-Icons into app.scss
 ```scss
 @import '~ionic-icons-sass/ionic-icons';
 ```
 
+## Example
 ```php
 <i class="ionic icon-users"></i>
 ```
+
+## Summery
+https://icons.getbootstrap.com/assets/icons/people.svg
 
 ## License
 This project is licensed under the terms of the
