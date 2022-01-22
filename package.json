@@ -1,7 +1,7 @@
 {
   "name": "ionic-icons-sass",
-  "version": "1.0.2",
-  "description": "Ionic Icons Convertable to Sass/Scss",
+  "version": "1.0.0",
+  "description": "Ionic Icons have been converted to different sections (Normal, Outline, Sharp and Circle) in Sass/Scss.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/EuroCent82/ionic-icons-sass.git"
@@ -10,11 +10,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "ionic icons",
-    "icons ionic",
-    "icons",
     "ionic",
-    "ionic sass"
+    "icons",
+    "icon",
+    "sass",
+    "scss",
+    "css",
+    "fonts",
+    "font",
+    "outline",
+    "normal",
+    "sharp",
+    "circle"
   ],
   "author": "EuroCent <maik.schwieger@yahoo.com>",
   "engines": {
@@ -38,10 +45,6 @@
     }
   ],
   "homepage": "https://github.com/EuroCent82/ionic-icons-sass#readme",
-  "devDependencies": {
-    "chai": "4.3.4",
-    "mocha": "9.1.4"
-  },
   "publishConfig": {
     "access": "public"
   }
