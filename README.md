@@ -23,9 +23,16 @@ yarn add ionic-icons-sass
 ```php
 <i class="ionic icon-users"></i>
 ```
+```php
+<button>
+    <i class="ionic icon-users"></i> Button
+</button>
+```
 
 ## Summery
-https://icons.getbootstrap.com/assets/icons/people.svg
+![Users](https://icons.getbootstrap.com/assets/icons/people.svg)
+
+![Users-Button](https://raw.githubusercontent.com/EuroCent82/ionic-icons-sass/master/users-button.png)
 
 ## License
 This project is licensed under the terms of the
