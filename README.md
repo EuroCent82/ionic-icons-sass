@@ -36,4 +36,4 @@ yarn add ionic-icons-sass
 
 ## License
 This project is licensed under the terms of the
-[MIT license](./LICENSE).
+[MIT license](./LICENSE.md).
