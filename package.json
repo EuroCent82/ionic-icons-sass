@@ -1,10 +1,10 @@
 {
   "name": "ionic-icons-scss",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Ionic Icons have been converted to different sections (Normal, Outline, Sharp and Circle) in Sass/Scss.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EuroCent82/ionic-icons-sass.git"
+    "url": "git+https://github.com/EuroCent82/ionic-icons-scss.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -29,22 +29,22 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EuroCent82/ionic-icons-sass/issues"
+    "url": "https://github.com/EuroCent82/ionic-icons-scss/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/EuroCent82/ionic-icons-sass/LICENSE"
+      "url": "https://github.com/EuroCent82/ionic-icons-scss/LICENSE"
     }
   ],
   "contributors": [
     {
       "name": "EuroCent",
       "email": "mail.schwieger@yahoo.com",
-      "url": "https://github.com/EuroCent82/ionic-icons-sass"
+      "url": "https://github.com/EuroCent82/ionic-icons-scss"
     }
   ],
-  "homepage": "https://github.com/EuroCent82/ionic-icons-sass#readme",
+  "homepage": "https://github.com/EuroCent82/ionic-icons-scss#readme",
   "publishConfig": {
     "access": "public"
   }
