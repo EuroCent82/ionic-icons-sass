@@ -8,6 +8,7 @@ npm install ionic-icons-scss --save
 ```
 
 ## Installation via YARN
+
 ```bash
 yarn add ionic-icons-scss
 ```
