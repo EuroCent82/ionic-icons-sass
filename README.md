@@ -3,8 +3,6 @@
 Ionic Icons have been converted to different sections (Normal, Outline, Sharp and Circle) in Sass/Scss.
 
 ## Installation via NPM
-Install via NPM:
-
 ```bash
 npm install ionic-icons-scss --save
 ```
@@ -32,7 +30,7 @@ yarn add ionic-icons-scss
 ## Summery
 ![Users](https://icons.getbootstrap.com/assets/icons/people.svg)
 
-![Users-Button](https://raw.githubusercontent.com/EuroCent82/ionic-icons-sass/master/users-button.png)
+![Users-Button](https://raw.githubusercontent.com/EuroCent82/ionic-icons-scss/master/users-button.png)
 
 ## License
 This project is licensed under the terms of the
